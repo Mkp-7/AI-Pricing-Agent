@@ -1,0 +1,43 @@
+
+╔══════════════════════════════════════════════════════════════════╗
+║           POOLSUPPLIES.COM PRICING INTELLIGENCE REPORT           ║
+║                    Generated: 2026-04-21 15:05                    ║
+╚══════════════════════════════════════════════════════════════════╝
+
+
+SUMMARY:
+  Total SKUs Analyzed: 1
+  Average Price Gap: 17.8%
+  
+  Pricing Position:
+    • Above Market (>5%): 0 SKUs
+    • At Market (-5% to +5%): 0 SKUs
+    • Below Market (<-5%): 1 SKUs
+
+
+======================================================================
+DETAILED ANALYSIS BY SKU
+======================================================================
+
+
+SKU: VAC-BRUSH-20
+Status:  MARGIN OPP
+Price Gap: -17.8%
+
+Our Price:         $17.99
+Market Range:      $21.26 - $22.50
+Market Average:    $21.88
+
+COMPETITOR PRICES:
+  • Amazon: $21.26 (In Stock)
+    URL: https://www.amazon.com/Poolmaster-20175-Combo-Brush-Vacuum/dp/B001O5SNJA
+  • Walmart: $22.50 (In Stock)
+    URL: https://www.walmart.com/ip/Poolmaster-20-Inch-Combo-Swimming-Pool-Brush-and-Vacuum/26423120
+
+Recommendation: INCREASE
+We are priced 17.77% below the competitor average of $21.88. Both Amazon and Walmart carry the same 20-inch pool and spa vacuum brush combo at $21.26 and $22.50 respectively. At $17.99 we are leaving margin on the table while our cost is $12.00 (current margin ~33%). Increasing to $20.99 would bring us just under both competitors, maintain price competitiveness, and improve gross margin from ~33% to ~43%. LesliesPool.com did not carry a direct 20-inch pool/spa vacuum brush combo match and was excluded.
+
+Confidence: 78%
+Analyzed: 2026-04-21T15:05:18.727791
+
+----------------------------------------------------------------------

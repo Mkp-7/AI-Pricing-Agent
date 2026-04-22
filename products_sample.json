@@ -1,0 +1,165 @@
+# Sample Products for PoolSupplies.com Pricing Analysis
+# Copy this to products.json and customize with your actual SKUs
+
+[
+  {
+    "sku": "RXC-50LB-3IN",
+    "name": "Rx Clear 3-Inch Stabilized Chlorine Tablets 50 lbs",
+    "category": "Chemicals - Chlorine",
+    "our_price": 129.99,
+    "cost": 85.00,
+    "notes": "Top seller, highly competitive category"
+  },
+  {
+    "sku": "SUN2-BLUE-16X32",
+    "name": "Sun2Solar Blue Solar Cover 16x32 Rectangle",
+    "category": "Covers - Solar",
+    "our_price": 89.99,
+    "cost": 45.00,
+    "notes": "House brand, good margins"
+  },
+  {
+    "sku": "RXC-SHOCK-24LB",
+    "name": "Rx Clear Super Shock Pool Chlorine 24 lbs",
+    "category": "Chemicals - Shock",
+    "our_price": 79.99,
+    "cost": 52.00,
+    "notes": "Seasonal demand peaks May-June"
+  },
+  {
+    "sku": "BB-WINTER-18RD",
+    "name": "Buffalo Blizzard Winter Cover 18 ft Round Pool",
+    "category": "Covers - Winter",
+    "our_price": 59.99,
+    "cost": 28.00,
+    "notes": "High margin house brand"
+  },
+  {
+    "sku": "AS-LADDER-48",
+    "name": "Aqua Select A-Frame Ladder 48 inch Above Ground",
+    "category": "Accessories - Ladders",
+    "our_price": 199.99,
+    "cost": 120.00,
+    "notes": "Heavy shipping costs, factor into pricing"
+  },
+  {
+    "sku": "RXC-ALGAE-QT",
+    "name": "Rx Clear Algaecide 50 Plus 1 Quart",
+    "category": "Chemicals - Algaecide",
+    "our_price": 19.99,
+    "cost": 8.50,
+    "notes": "Good margin, consistent seller"
+  },
+  {
+    "sku": "INT-PUMP-1000",
+    "name": "Intex 1000 GPH Pool Filter Pump",
+    "category": "Equipment - Pumps",
+    "our_price": 49.99,
+    "cost": 28.00,
+    "notes": "Price-sensitive, match Amazon closely"
+  },
+  {
+    "sku": "RXC-OPEN-KIT",
+    "name": "Rx Clear Spring Pool Opening Chemical Kit 15000 Gallon",
+    "category": "Chemicals - Kits",
+    "our_price": 34.99,
+    "cost": 18.00,
+    "notes": "Bundle product, optimize total value not item price"
+  },
+  {
+    "sku": "HAY-SKIMMER",
+    "name": "Hayward SP1091LX Automatic Pool Skimmer",
+    "category": "Equipment - Skimmers",
+    "our_price": 89.99,
+    "cost": 54.00,
+    "notes": "Brand name, less price sensitive"
+  },
+  {
+    "sku": "SUN2-REEL",
+    "name": "Sun2Solar Solar Cover Reel for Above Ground Pools",
+    "category": "Accessories - Reels",
+    "our_price": 119.99,
+    "cost": 65.00,
+    "notes": "Often bundled with solar covers"
+  },
+  {
+    "sku": "RXC-CHLOR-25LB",
+    "name": "Rx Clear Stabilized Chlorine Granules 25 lbs",
+    "category": "Chemicals - Chlorine",
+    "our_price": 89.99,
+    "cost": 58.00,
+    "notes": "Alternative to tabs, less price-sensitive"
+  },
+  {
+    "sku": "BB-LEAFNET-16X32",
+    "name": "Buffalo Blizzard Leaf Net Cover 16x32",
+    "category": "Covers - Leaf Nets",
+    "our_price": 69.99,
+    "cost": 32.00,
+    "notes": "Seasonal fall demand"
+  },
+  {
+    "sku": "AS-LINER-24RD",
+    "name": "SmartLine 24 ft Round Overlap Pool Liner Blue",
+    "category": "Liners - Above Ground",
+    "our_price": 149.99,
+    "cost": 85.00,
+    "notes": "Custom product, limited competition"
+  },
+  {
+    "sku": "RXC-PH-PLUS",
+    "name": "Rx Clear pH Plus Increaser 10 lbs",
+    "category": "Chemicals - Balancers",
+    "our_price": 24.99,
+    "cost": 12.00,
+    "notes": "Consistent year-round demand"
+  },
+  {
+    "sku": "INT-CLEANER-AUTO",
+    "name": "Intex Automatic Pool Cleaner for Above Ground",
+    "category": "Cleaning - Auto Cleaners",
+    "our_price": 79.99,
+    "cost": 48.00,
+    "notes": "Amazon is aggressive on this"
+  },
+  {
+    "sku": "RXC-CLOSE-KIT",
+    "name": "Rx Clear Winter Pool Closing Chemical Kit 20000 Gallon",
+    "category": "Chemicals - Kits",
+    "our_price": 39.99,
+    "cost": 21.00,
+    "notes": "Seasonal Sept-Oct demand spike"
+  },
+  {
+    "sku": "SUN2-BLANKET-REEL",
+    "name": "Sun2Solar Solar Blanket Reel System Inground",
+    "category": "Accessories - Reels",
+    "our_price": 279.99,
+    "cost": 165.00,
+    "notes": "Higher-end, less price competition"
+  },
+  {
+    "sku": "BB-WATERBAG-10",
+    "name": "Buffalo Blizzard Water Tubes for Winter Covers 10 ft - 6 Pack",
+    "category": "Covers - Accessories",
+    "our_price": 44.99,
+    "cost": 18.00,
+    "notes": "Monopoly product, we manufacture"
+  },
+  {
+    "sku": "RXC-CLARIFIER",
+    "name": "Rx Clear Pool Water Clarifier 1 Quart",
+    "category": "Chemicals - Clarifiers",
+    "our_price": 16.99,
+    "cost": 7.00,
+    "notes": "Impulse purchase item"
+  },
+  {
+    "sku": "KAYAK-LINER-16X32",
+    "name": "Replacement Liner for Kayak Pool 16x32 Oval",
+    "category": "Liners - Kayak Brand",
+    "our_price": 399.99,
+    "cost": 220.00,
+    "notes": "Exclusive, largest supplier of Kayak parts"
+  }
+]
