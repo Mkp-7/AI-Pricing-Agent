@@ -1,5 +1,5 @@
 """
-Simple Pricing Intelligence Agent
+Pricing Intelligence Agent
 Analyzes 10-20 SKUs against competitors using Claude API with web search
 Zero-cost MVP for E-commerce Retailer
 """
