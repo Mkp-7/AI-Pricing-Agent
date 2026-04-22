@@ -11,7 +11,7 @@ import plotly.graph_objects as go
 from datetime import datetime
 
 st.set_page_config(
-    page_title="PoolSupplies Pricing Intelligence",
+    page_title="E-commerce Retail Pricing Intelligence",
     page_icon="**",
     layout="wide"
 )
@@ -56,7 +56,7 @@ def load_data():
 
 
 # Header
-st.title(" PoolSupplies.com Pricing Intelligence Dashboard")
+st.title(" E-commerce Retail Pricing Intelligence Dashboard")
 st.markdown("**Real-time competitive pricing analysis powered by AI**")
 
 # Load data
