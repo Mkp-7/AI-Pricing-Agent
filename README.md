@@ -1,4 +1,4 @@
-# 🏊 PoolSupplies.com Pricing Intelligence Agent
+# Pricing Intelligence Agent
 
 **Free AI-powered competitive pricing analysis** for your top 20 SKUs using Claude's web search capabilities.
 
@@ -10,7 +10,7 @@ This AI agent:
 - ✅ Searches Amazon, Walmart, and Leslie's for your products
 - ✅ Extracts competitor prices automatically
 - ✅ Analyzes your pricing position vs market
-- ✅ Generates actionable recommendations
+- ✅ Generates meaninigful recommendations
 - ✅ Creates visual dashboard for insights
 - ✅ **100% Free** (uses Anthropic's free API credits)
 
@@ -150,38 +150,7 @@ products = [
 - Suggested price points
 
 ---
-
-## 🔄 Scheduling Regular Scans
-
-### Option 1: Manual (Recommended for MVP)
-Run whenever you want fresh data:
-```bash
-python pricing_agent.py && streamlit run dashboard.py
-```
-
-### Option 2: Cron Job (Linux/Mac)
-```bash
-# Edit crontab
-crontab -e
-
-# Add line to run daily at 6 AM
-0 6 * * * cd /path/to/pricing-agent && /usr/bin/python3 pricing_agent.py
-```
-
-### Option 3: Task Scheduler (Windows)
-1. Open Task Scheduler
-2. Create Basic Task
-3. Set trigger (e.g., Daily at 6 AM)
-4. Action: Run `python pricing_agent.py`
-
-### Option 4: GitHub Actions (Free Cloud)
-Already included in `.github/workflows/daily-pricing.yml`
-- Runs automatically every day
-- Stores results as artifacts
-- 100% free on GitHub
-
----
-
+    
 ## 💰 Cost Analysis
 
 ### Current Setup (100% Free)
@@ -222,7 +191,7 @@ Already included in `.github/workflows/daily-pricing.yml`
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║           POOLSUPPLIES.COM PRICING INTELLIGENCE REPORT           ║
+║                    PRICING INTELLIGENCE REPORT                   ║
 ║                    Generated: 2024-01-15 14:30                   ║
 ╚══════════════════════════════════════════════════════════════════╝
 
@@ -271,13 +240,13 @@ Analyzed: 2024-01-15T14:28:33
 
 ### Why This Is Better Than Traditional Scraping
 
-❌ **Traditional scraping:**
+**Traditional scraping:**
 - Breaks when sites change
 - Needs maintenance for each site
 - Can't handle variations in product names
 - No context-aware analysis
 
-✅ **AI agent approach:**
+**AI agent approach:**
 - Adapts to site changes automatically
 - Understands "3-inch tabs" = "3 inch tablets"
 - Provides strategic insights, not just data
@@ -287,19 +256,19 @@ Analyzed: 2024-01-15T14:28:33
 
 ## 🔮 Future Enhancements
 
-**Easy to add (1-2 hours):**
+**Easy to add:**
 - Email alerts for critical gaps
 - Export to Excel
 - More competitors (Chewy, Target, etc.)
 - Historical price trending
 
-**Medium complexity (1-2 days):**
+**Medium complexity:**
 - Automatic price recommendations
 - A/B test tracking
 - Sales volume integration
 - Seasonal pattern detection
 
-**Advanced (1 week):**
+**Advanced:**
 - Real-time monitoring (hourly scans)
 - Competitor stock-out detection
 - Dynamic pricing rules
@@ -307,7 +276,7 @@ Analyzed: 2024-01-15T14:28:33
 
 ---
 
-## 📞 Support
+## Support
 
 **Questions?**
 - Check the code comments in `pricing_agent.py`
@@ -323,15 +292,9 @@ This MVP is designed to be easily extensible. The core agent can be enhanced wit
 
 ---
 
-## 📄 License
-
-MIT License - Free to use and modify for your business.
-
----
-
 ## 🎉 Quick Win Example
 
-After running this for PoolSupplies.com:
+After running this for actual products:
 
 **Before:**
 - Manual competitor checking 1x/week
@@ -344,8 +307,3 @@ After running this for PoolSupplies.com:
 - Lowered price on 2 over-priced items → improved conversion
 
 **Estimated impact: +$2,400/month in margin improvement**
-
----
-
-Made with ❤️ for PoolSupplies.com
-Powered by Claude 3.5 Haiku
