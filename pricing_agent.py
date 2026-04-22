@@ -1,7 +1,7 @@
 """
 Simple Pricing Intelligence Agent
 Analyzes 10-20 SKUs against competitors using Claude API with web search
-Zero-cost MVP for PoolSupplies.com
+Zero-cost MVP for E-commerce Retailer
 """
 
 import anthropic
@@ -295,8 +295,8 @@ Return ONLY this JSON structure with actual data. No other text."""
         
         report = f"""
 ╔══════════════════════════════════════════════════════════════════╗
-║           POOLSUPPLIES.COM PRICING INTELLIGENCE REPORT           ║
-║                    Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')}                    ║
+║                 PRICING INTELLIGENCE REPORT                      ║
+║          Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')}  ║
 ╚══════════════════════════════════════════════════════════════════╝
 
 """
@@ -444,7 +444,7 @@ def main():
     
     print(f"""
 ╔══════════════════════════════════════════════════════════════════╗
-║          POOLSUPPLIES.COM PRICING INTELLIGENCE AGENT             ║
+║                     PRICING INTELLIGENCE AGENT                   ║
 ║                        Starting Analysis...                      ║
 ╚══════════════════════════════════════════════════════════════════╝
 
